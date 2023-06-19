@@ -34,7 +34,7 @@ Start application server with watcher for auto-reload on change:
 dotnet watch run
 ```
 
-///Yalin Arie 19/06/2023
+///Yalin Arie 19/06/2023 16:04PM
 
 ## Build Docker
 
